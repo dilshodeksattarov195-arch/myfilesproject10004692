@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrrocess",
+        "uuid": 43598064,
+        "checksum": "qnasbe"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
